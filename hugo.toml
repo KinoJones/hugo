@@ -1,7 +1,7 @@
 baseURL = "https://barowik-portfolio.netlify.app"
 title = "Portfolio"
-author = "James Barowik"
-copyright = "James Barowik"
+author = "Kedar Looby"
+copyright = "Kedar Looby"
 paginate = 10
 languageCode = "en"
 theme = "tailwind"
