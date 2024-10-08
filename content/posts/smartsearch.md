@@ -1,18 +1,18 @@
 ---
-title: "Smartsearch Game"
-date: 2024-05-05
-url: /smartsearch
-image: https://github.com/SilentSmeary/hugo/blob/master/images/posts/2024/smartsearch.png?raw=true
+title: "Education"
+date: 2023-08-12
+url: /https://www.mycomputercareer.edu/
+image: https://github.com/KinoJones/hugo/blob/master/images/MyCC_FullTag_Blue_300x90.jpg?raw=true
 categories:
-  - Work Experience
+  - Education
 series:
  - 2024 
 ---
 ## Introduction:
-Smartsearch approached the UTC with an idea that they wanted to make a game to showcase there company at events. We initial met with them in person and spoke with Dan that was our a lead contact at Smartsearch and the team. We also met with David who is one of the software developers at SmartSearch he assisted along the way with more of the team management to ensure that we were on the right tracks and that we made a viable product at the end that could be used to bring people to the SmartSearch stand and get them interetsed.
+Welcome to MyComputerCareer, where we’ve designed our IT Career Training Programs with you in mind. Whether you’re a complete beginner or a tech enthusiast looking to take your career to the next level, our personalized programs are tailored to help you succeed.
 
 ## After the first meeting:
-When we first met in person we decided that it would be best if we had weekly meetings to ensure contact with Dan and the team. This ment that we could share progress, showcasing the work that we had done. In the first week we were tasked with creating a mood board of ideas for games that we could create and games that we would like to make that fit the initial ideas that we were given.
+
 
 **We came up with:**
 - Maze game with fog of war
